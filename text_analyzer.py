@@ -1,5 +1,4 @@
 from collections import Counter
-import os
 
 
 def count_words(text: str) -> int:
