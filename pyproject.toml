@@ -1,0 +1,5 @@
+[tool.ruff]
+exclude = ["*.ipynb", "bad.py", "typed_bad.py"]
+
+[tool.mypy]
+files = ["text_analyzer.py"]
